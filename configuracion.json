@@ -1,0 +1,13 @@
+{
+  "model": "SM-A055M",
+  "skip_watchdog": true,
+  "wait_seconds": 120,
+  "backend": "motor/mtk_traza.exe",
+  "backend_sha256": "73c55a5eb98294d4bd3bca2f85e18ee8411a32e241ce3e2f6c3f006e4d5a4b54",
+  "diagnostic": "motor/A05_Diagnostico.exe",
+  "diagnostic_sha256": "7774c40fa68f993b87fe72a1ec7d22b2afe5de80e2a201df1fbf2ce57d889759",
+  "private_profile": "perfiles/perfil_a05.json",
+  "private_logs": "%LOCALAPPDATA%/A05Editable/registros",
+  "debug_engine": false,
+  "engine_trace": true
+}

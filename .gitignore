@@ -1,0 +1,29 @@
+# Componentes importados y construcciones locales
+motor/
+fuente/diag_assets/
+*.exe
+*.dll
+*.bin
+*.pyd
+*.zip
+*.rar
+*.spec
+build/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+*.new
+
+# Datos privados y diagnósticos locales
+registros/
+logs/
+*.log
+*.jsonl
+.env
+.env.*
+componentes_locales.json
+validacion_local.json
+verificacion*.json
+resultado*.json
+*.backup-*

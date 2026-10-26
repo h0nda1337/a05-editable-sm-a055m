@@ -1,0 +1,10 @@
+{
+  "model": "SM-A055M",
+  "arguments": [
+    "e",
+    "persistent",
+    "--skipwdt",
+    "1"
+  ],
+  "loader": "off"
+}

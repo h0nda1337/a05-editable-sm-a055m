@@ -1,0 +1,11 @@
+{
+  "LICENSE": "https://raw.githubusercontent.com/bkerler/mtkclient/main/LICENSE",
+  "licenses/MTKClient-GPL-3.0.txt": "https://raw.githubusercontent.com/bkerler/mtkclient/main/LICENSE",
+  "licenses/libusb-LGPL-2.1.txt": "https://raw.githubusercontent.com/libusb/libusb/v1.0.27/COPYING",
+  "licenses/PyUSB-BSD-3-Clause.txt": "https://raw.githubusercontent.com/pyusb/pyusb/v1.3.1/LICENSE",
+  "licenses/UsbDk-Apache-2.0.txt": "https://raw.githubusercontent.com/daynix/UsbDk/master/LICENSE",
+  "licenses/PyInstaller-COPYING.txt": "https://raw.githubusercontent.com/pyinstaller/pyinstaller/v6.22.3/COPYING.txt",
+  "licenses/Python-3.12.10-LICENSE.txt": "https://raw.githubusercontent.com/python/cpython/v3.12.10/LICENSE",
+  "licenses/Tk-8.6.13-license.terms": "https://raw.githubusercontent.com/tcltk/tk/core-8-6-13/license.terms",
+  "licenses/Tcl-8.6.13-license.terms": "https://raw.githubusercontent.com/tcltk/tcl/core-8-6-13/license.terms"
+}
